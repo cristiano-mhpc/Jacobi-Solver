@@ -23,3 +23,14 @@ Thumbs.db    # Windows
 build/
 bin/
 
+
+# Editor folders
+.vscode/
+
+# Vim swap files
+*.swp
+*.swo
+*.swn
+*.swl
+*.swm
+
