@@ -1,0 +1,24 @@
+# --- Build artifacts ---
+*.o          # object files
+*.a          # static libraries
+*.so         # shared libraries (if built)
+*.out        # generic build outputs
+*.x          # your executables
+
+# --- Makefile-generated files ---
+*.d          # dependency files
+*.dep        # alternative dependency files
+
+# --- Editors / OS cruft ---
+*~           # backup files
+*.swp        # vim swap
+*.swo
+*.swm
+*.swn
+.DS_Store    # macOS Finder files
+Thumbs.db    # Windows
+
+# --- Optional: build directories ---
+build/
+bin/
+
