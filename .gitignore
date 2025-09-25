@@ -4,6 +4,7 @@
 *.so         # shared libraries (if built)
 *.out        # generic build outputs
 *.x          # your executables
+*.data       # data files 
 
 # --- Makefile-generated files ---
 *.d          # dependency files
